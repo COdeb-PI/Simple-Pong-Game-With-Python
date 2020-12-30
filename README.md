@@ -1,5 +1,5 @@
 # Simple-Pong-Game-With-Python
-hey that's my simple game with python!                ENJOY!:)          (it's in french:( (sorry i am french))
+hey that's my simple game with python!   watch the README!             ENJOY!:)          (it's in french:( (sorry i am french))
 
 they are the code:
 ####################CODE##################################################################################################################################################################################
